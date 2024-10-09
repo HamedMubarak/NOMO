@@ -1,0 +1,10 @@
+org\screens\SideMenu.class
+org\utils\Waits.class
+org\screens\Checkout.class
+org\screens\LoginForm.class
+org\utils\ConfigProperties.class
+org\screens\AlertPopup.class
+org\device\Device.class
+org\driver_handler\DriverHandler.class
+org\base\Base.class
+org\screens\Home.class

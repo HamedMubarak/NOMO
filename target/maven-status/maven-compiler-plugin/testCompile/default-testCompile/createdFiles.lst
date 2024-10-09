@@ -1,0 +1,4 @@
+org\tests\login\LoginRunner.class
+org\tests\CommonStepDefs.class
+org\tests\HooksHandler.class
+org\tests\NomoTestRunner.class
